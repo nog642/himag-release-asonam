@@ -1,0 +1,12 @@
+How to run gene diver on windows:
+
+1. download the jar 
+2. install jdk1.7
+3. doubleclick the jar associate with java to run
+4. find your chrome.exe it should be at: c:\Program Files(x86)\Google\Chrome\application\
+5. make a copy of chrome.exe in the same directory called google-chrome.exe
+6. Add system variables PATH new entry to point to above directory (remove double quotes when adding on Windows 10)
+
+7. Test if browse urls works, if you have urls. It should as gene diver uses google-chrome as the brower exe name
+
+

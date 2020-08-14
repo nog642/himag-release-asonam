@@ -1,0 +1,20 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>F:\phd\src\genediver\genediver\genediver.jar</jar>
+  <outfile>F:\phd\src\genediver\genediver\genediver.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <customProcName>true</customProcName>
+  <stayAlive>true</stayAlive>
+  <icon>F:\phd\src\genediver\genediver\images\simpleicon.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.5.0_06</minVersion>
+    <maxVersion></maxVersion>
+    <dontUsePrivateJres>false</dontUsePrivateJres>
+    <initialHeapSize>100</initialHeapSize>
+    <maxHeapSize>1500</maxHeapSize>
+  </jre>
+</launch4jConfig>

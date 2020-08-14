@@ -1,0 +1,4 @@
+Manifest-Version: 1.01
+Main-Class: DiverWin
+
+classpath:genediver.jar
